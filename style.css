@@ -1,0 +1,26 @@
+
+p{
+    font-size: larger;
+    margin: 0 10% 0 10%;
+}
+
+#img-titulo{
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: #323232 solid 5px;
+    border-radius: 5%;
+}
+
+.eb-garamond-font {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#img-collage{
+    display: inline-block;
+    width: 40%;
+    margin: 0;
+}
